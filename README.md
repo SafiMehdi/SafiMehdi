@@ -1,7 +1,7 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/SafiMehdi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SafiMehdi&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiMehdi&theme=noctis_minimus&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SafiMehdi&theme=noctis_minimus&show_icons=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiMehdi&theme=noctis_minimus&layout=compact" />
 </a>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
