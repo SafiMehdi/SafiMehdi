@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SafiMehdi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SafiMehdi&theme=noctis_minimus&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SafiMehdi&theme=chartreuse-dark&show_icons=true" />
   </a>
 </p>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
