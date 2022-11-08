@@ -17,7 +17,7 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
+    "Web Development ",
     "Machine Learning",
     "UI/UX",
     "DevOps",
